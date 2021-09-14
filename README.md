@@ -1,2 +1,3 @@
-# HelloWorld
-This is a HelloWorld Repository
+# Tablas
+Práctica de tablas
+
